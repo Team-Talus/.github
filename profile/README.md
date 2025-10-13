@@ -7,7 +7,7 @@ We’re a dev collective building **full-stack projects** with modern stacks (Ne
 ---
 
 ### 🔥 **Active Projects**  
-| Project           | Description                  | Tech Stack           | Status       |
-|-------------------|------------------------------|----------------------|--------------|
-| **Burger Shop**| Customizable burger ordering system | Next.js, Express, MySQL | `Final Phase` |
-| **Origin Fish Co-op**| Aquatic e-commerce | Next.js, PayPal API | `Planning` |
+| Project           | Description                  | Tech Stack           | Status       | Repository |
+|-------------------|------------------------------|----------------------|--------------|------------|
+| **Burger Shop**| Customizable burger ordering system | Next.js, Express, MySQL | `Production Ready` | [View Repo](https://github.com/Lucasjbs/Burger-Shop-Website) |
+| **Origin Fish Co-op**| Aquatic e-commerce | Next.js, PayPal API | `In Development` | Coming Soon |
